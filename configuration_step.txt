@@ -1,0 +1,5 @@
+ Catatan : Setinggan yang harus dirubah
+
+    APYBOT : Ubah dengan API BOT telegram kamu
+    CHAT_ID : Ubah dengan chat_ID telegram kamu.
+    12:00:00 : Interval expired sesuaikan.
